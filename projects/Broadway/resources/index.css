@@ -8,7 +8,7 @@ h2{
 h3{
   font-size: 23px;
 }
-h4{
+.small{
   font-size: 11px;
   color:white;
 }
@@ -16,7 +16,7 @@ h5{
   font-size: 23px;
   color:white;
 }
-h6{
+.white{
   font-size: 18px;
   color: white;
 }
@@ -26,7 +26,9 @@ body{
 }
 .home,
 .needsbackground{
-  background-image:url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png')
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 .lalala{
   background-color: dimgray;
