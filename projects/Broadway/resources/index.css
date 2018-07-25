@@ -24,7 +24,7 @@ body{
   text-align: center;
   font-weight: bold;
 }
-#home,
+.home,
 .needsbackground{
   background-image:url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png')
 }
